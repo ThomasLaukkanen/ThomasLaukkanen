@@ -1,6 +1,6 @@
 
 
-# Welcome to my page!
+# ⚡Welcome to my page!⚡
 ## Here i will share awesome frontend applications that you can learn from for free 😎
 
 <!--
