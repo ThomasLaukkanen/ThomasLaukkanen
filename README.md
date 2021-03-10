@@ -1,6 +1,6 @@
 
 
-## Welcome to my page! Here i will share awesome frontend applications that hopefully can help you in someway 😎
+## Welcome to my page! Here i will share awesome frontend applications that you can learn from for free 😎
 <!--
 **ThomasLaukkanen/ThomasLaukkanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
