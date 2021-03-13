@@ -3,7 +3,7 @@
 # ⚡Welcome to my Github page!⚡
 
 ### Here i will share awesome frontend applications that you can learn from for free 😎
-#### I will hopefully add more complex apps as my skillset grows so hold on and happy coding.
+#### I will add more complex apps as my skillset grows, so hold on and happy coding.
 
 <!--
 **ThomasLaukkanen/ThomasLaukkanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
