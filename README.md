@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
-## Skills i have acquired so far...
+## Skills i have acquired so far...🤩
 - React, Vue
 - Figma & Adobe XD  
 - GIT & Github 
@@ -28,7 +28,8 @@
 - Netlify & Gatsby Cloud 
 - Google Ads & My Business 
 - Linux
-- CMS
+- CMS, Wordpress, Sanity
+- Netlify, Gatsby Cloud
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=thomaslaukkanen&repo=github-visitors-badge&countColor=%237B1E7A)
