@@ -5,7 +5,8 @@
 ### Here i will share awesome frontend applications that you can learn from for free 😎
 #### I will add more complex apps as my skillset grows, so hold on and happy coding.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
+
 
 <!--
 **ThomasLaukkanen/ThomasLaukkanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
