@@ -4,7 +4,7 @@
  Here i will share awesome frontend applications that you can learn from for free. 😎
 
 ### Frontend developer student @ IT-högskolan
-  Currently im working part time at Kryptoskatt
+  Currently Im working part time at Kryptoskatt.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
