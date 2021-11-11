@@ -6,7 +6,7 @@
 #### I will add more complex apps as my skillset grows, so hold on and happy coding.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslaukkanen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslaukkanen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
