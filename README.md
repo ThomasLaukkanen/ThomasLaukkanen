@@ -1,29 +1,34 @@
 
 
 # 👋 Hi and welcome to my Github page!
+ Here i will share awesome frontend applications that you can learn from for free. 😎
 
-### Here i will share awesome frontend applications that you can learn from for free. 😎
+### Frontend developer student @ IT-högskolan
+  Currently im working part time at Kryptoskatt
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
-## Skills i posses so far
-Figma & Adobe XD  
-GIT & Github 
-GraphQL 
-Next.js & Gatsby.js 
-Firebase 
-WooCommerce & Shopify 
-MERN, LAMP & JAM Stack 
-noSQL & SQL databaser 
-Node.js & Express.js 
-Tillgänglighets anpassning 
-Photoshop & Illustrator 
-Jira, Miro 
-Emotion & Styled Components 
-Netlify & Gatsby Cloud 
-Google Ads & My Business 
-Linux
+## Skills i acquired so far
+- React, Vue
+- Figma & Adobe XD  
+- GIT & Github 
+- GraphQL 
+- Next.js & Gatsby.js 
+- Firebase 
+- WooCommerce & Shopify 
+- MERN, LAMP & JAM Stack 
+- noSQL & SQL databases 
+- Node.js & Express.js 
+- A11Y
+- UX
+- Photoshop & Illustrator 
+- Jira, Miro 
+- Emotion & Styled Components, Bootstrap, Scss, CSS, 
+- Netlify & Gatsby Cloud 
+- Google Ads & My Business 
+- Linux
+- CMS
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=thomaslaukkanen&repo=github-visitors-badge&countColor=%237B1E7A)
