@@ -1,6 +1,6 @@
 
 
-# ⚡Hi and Welcome to my Github page!⚡
+# 👋 Hi and welcome to my Github page!
 
 ### Here i will share awesome frontend applications that you can learn from for free. 😎
 
