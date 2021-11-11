@@ -3,9 +3,11 @@
 # ⚡Welcome to my Github page!⚡
 
 ### Here i will share awesome frontend applications that you can learn from for free 😎
-#### I will add more complex apps as my skillset grows, so hold on and happy coding.
+I will add more complex apps as my skillset grows, so hold on and happy coding.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
+
+
 ![](https://api.visitorbadge.io/api/VisitorHit?user=thomaslaukkanen&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
