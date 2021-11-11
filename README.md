@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
-## Skills i acquired so far
+## Skills i have acquired so far...
 - React, Vue
 - Figma & Adobe XD  
 - GIT & Github 
