@@ -14,6 +14,7 @@
 - Figma & Adobe XD  
 - GIT & Github 
 - GraphQL 
+- Javascript,Typescript, PHP
 - Next.js & Gatsby.js 
 - Firebase 
 - WooCommerce & Shopify 
