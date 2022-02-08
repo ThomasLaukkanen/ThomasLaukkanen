@@ -1,10 +1,11 @@
 
 
 # 👋 Hi and welcome to my Github page!
- Here i will share awesome frontend applications that you can learn from for free. 😎
+ Here i will share awesome frontend applications that you can learn from for free. Some of the appications 😎
 
 ### Frontend developer student @ IT-högskolan
-  Currently Im working part time at Kryptoskatt.
+  Currently I'm doing my intership at Etraveli Group.
+  Previously 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
@@ -12,8 +13,9 @@
 ## Skills i have acquired so far...🤩
 - React, Vue
 - Figma & Adobe XD  
-- GIT & Github 
+- GIT, Github & Bitbucket 
 - GraphQL 
+- Jest, React-testing-library
 - Javascript,Typescript, PHP
 - Next.js & Gatsby.js 
 - Firebase 
@@ -22,15 +24,17 @@
 - noSQL & SQL databases 
 - Node.js & Express.js 
 - A11Y
-- UX
+- Sematic HTML
+- UX Design
 - Photoshop & Illustrator 
 - Jira, Miro 
-- Emotion & Styled Components, Bootstrap, Scss, CSS, 
+- Emotion & Styled Components, Bootstrap, Scss, CSS 
 - Netlify & Gatsby Cloud 
 - Google Ads & My Business 
 - Linux
 - CMS, Wordpress, Sanity
 - Netlify, Gatsby Cloud
+- CI/CD
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=thomaslaukkanen&repo=github-visitors-badge&countColor=%237B1E7A)
