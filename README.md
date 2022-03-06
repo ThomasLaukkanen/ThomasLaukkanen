@@ -1,11 +1,11 @@
 
 
 # 👋 Hi and welcome to my Github page!
- Here i will share awesome frontend applications that you can learn from for free. Some of the appications 😎
+ Here i will share awesome frontend applications that you can learn from for free.😎
 
 ### Frontend developer student @ IT-högskolan
-  Currently I'm doing my intership at Etraveli Group.
-  Previously 
+I'm currently doing my intership at Etraveli Group.
+  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
