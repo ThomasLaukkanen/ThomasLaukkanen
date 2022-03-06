@@ -4,7 +4,7 @@
  Here i will share awesome frontend/fullstack applications that you can learn from for free.😎
 
 ### Frontend developer student @ IT-högskolan
-I'm currently doing my intership at Etraveli Group.
+I'm currently doing my intership at Etraveli Group. ✈️
   
 
 
