@@ -14,7 +14,7 @@ I have been at a startup called Kryptoskatt for 6 months. 💰
   
 ### Want to get in touch?
 Lets talk at [Linkedin](https:/www.linkedin.com/in/tholau) i will get back to you asap. 🤙
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.linkedin.com/in/tholau)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
