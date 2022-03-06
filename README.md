@@ -1,7 +1,7 @@
 
 
 # 👋 Hi and welcome to my Github page!
- Here i will share awesome frontend applications that you can learn from for free.😎
+ Here i will share awesome frontend/fullstack applications that you can learn from for free.😎
 
 ### Frontend developer student @ IT-högskolan
 I'm currently doing my intership at Etraveli Group.
