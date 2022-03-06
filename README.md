@@ -3,8 +3,14 @@
 # 👋 Hi and welcome to my Github page!
  Here i will share awesome frontend/fullstack applications that you can learn from for free.😎
 
-### Frontend developer student @ IT-högskolan
-I'm currently doing my intership at Etraveli Group. ✈️
+### Who am i?😃
+Frontend developer student @ IT-högskolan. 👨‍🏫 
+
+I'm currently doing my second intership at Etraveli Group. ✈️
+
+I have been at a startup called Kryptoskatt for 6 months.💰
+
+ And I like to help local businesses to succeed on the web. 🏢
   
 
 
