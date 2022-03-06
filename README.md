@@ -1,7 +1,7 @@
 
 
 # 👋 Hi and welcome to my Github page!
- Here i will share awesome frontend/fullstack applications that you can learn from for free.😎
+ Here i will share awesome frontend/fullstack applications that you can learn from for free. 😎
 
 ### Who am i?😃
 Frontend developer student @ IT-högskolan. 👨‍🏫 
@@ -13,7 +13,7 @@ I have been at a startup called Kryptoskatt for 6 months. 💰
  And I like to help local businesses to succeed on the web. 🏢
   
 ### Want to get in touch?
-Lets talk at [Linkedin](www.linkedin.com/in/tholau) i will get back to you asap 🤙
+Lets talk at [Linkedin](www.linkedin.com/in/tholau) i will get back to you asap. 🤙
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
