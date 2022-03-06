@@ -17,7 +17,8 @@ I'm currently doing my intership at Etraveli Group.
 - GraphQL 
 - Jest, React-testing-library
 - Javascript,Typescript, PHP
-- Next.js & Gatsby.js 
+- Next.js & Gatsby.js
+- Jenkins 
 - Firebase 
 - WooCommerce & Shopify 
 - MERN, LAMP & JAM Stack 
