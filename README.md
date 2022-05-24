@@ -6,7 +6,7 @@
 ### Who am i?😃
 Frontend developer student @ IT-högskolan. 👨‍🏫 
 
-I'm currently doing my second intership at Etraveli Group. ✈️
+I'm currently working at Etraveli Group. ✈️
 
 I have been at a startup called Kryptoskatt for 6 months. 💰
 
