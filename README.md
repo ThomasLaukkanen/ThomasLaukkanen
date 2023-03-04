@@ -45,6 +45,8 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - CMS, Wordpress, Sanity, Contentful
 - Netlify, Gatsby Cloud
 - CI/CD
+- DNS records and server setup
+
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=thomaslaukkanen&repo=github-visitors-badge&countColor=%237B1E7A)
