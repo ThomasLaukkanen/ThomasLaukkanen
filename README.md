@@ -24,7 +24,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - Figma & Adobe XD  
 - GIT, Github & Bitbucket 
 - GraphQL 
-- Jest, React-testing-library
+- Jest, React-testing-library, TestCafé
 - Javascript,Typescript, PHP
 - Next.js & Gatsby.js
 - Jenkins 
@@ -42,7 +42,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - Netlify & Gatsby Cloud 
 - Google Ads & My Business 
 - Linux
-- CMS, Wordpress, Sanity
+- CMS, Wordpress, Sanity, Contentful
 - Netlify, Gatsby Cloud
 - CI/CD
 
