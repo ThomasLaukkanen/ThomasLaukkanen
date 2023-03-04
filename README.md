@@ -34,7 +34,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - noSQL & SQL databases 
 - Node.js & Express.js 
 - A11Y
-- Sematic HTML
+- Semantic HTML
 - UX & UI Design
 - Photoshop & Illustrator 
 - Jira, Miro 
