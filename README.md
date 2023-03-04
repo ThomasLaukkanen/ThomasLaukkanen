@@ -46,7 +46,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - Facebook Ads & Meta portal
 - SEO
 - Linux
-- CMS systems like Wordpress, Sanity, Contentful
+- CMS systems like Wordpress, Contentful, Sanity
 - Wordpress plugin development
 - Netlify, Gatsby Cloud
 - CI/CD
