@@ -38,7 +38,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - Semantic HTML
 - UX & UI Design
 - Photoshop & Illustrator 
-- Jira, Miro 
+- Jira, Miro, Agile methodologies and SCRUM
 - Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS
 - Design system with Storybook 
 - Netlify & Gatsby Cloud 
