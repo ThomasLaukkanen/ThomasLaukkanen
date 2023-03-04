@@ -38,7 +38,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - UX Design
 - Photoshop & Illustrator 
 - Jira, Miro 
-- Emotion & Styled Components, Bootstrap, Scss, CSS 
+- Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS 
 - Netlify & Gatsby Cloud 
 - Google Ads & My Business 
 - Linux
