@@ -28,7 +28,8 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - Javascript,Typescript, PHP
 - Next.js & Gatsby.js
 - Jenkins 
-- Firebase 
+- Firebase
+- Marketing and Video recording/editing 
 - WooCommerce & Shopify 
 - MERN, LAMP & JAM Stack 
 - noSQL & SQL databases 
