@@ -4,13 +4,12 @@
  Here i will share awesome frontend/fullstack applications that you can learn from for free. 😎
 
 ### Who am i?😃
-Frontend developer student @ IT-högskolan. 👨‍🏫 
 
 I'm currently working at Etraveli Group. ✈️
 
 I have been at a startup called Kryptoskatt for 6 months. 💰
 
- And I like to help local businesses to succeed on the web. 🏢
+And I like to help local businesses to succeed on the web. 🏢
   
 ### Want to get in touch?
 Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to you asap. 🤙
