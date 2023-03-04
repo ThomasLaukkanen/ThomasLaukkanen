@@ -19,7 +19,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
-## Skills i have acquired so far...🤩
+## Skills i have acquired so far...or that i have some experience in🤩
 - React, React-native, Vue
 - Figma & Adobe XD  
 - GIT, Github & Bitbucket 
