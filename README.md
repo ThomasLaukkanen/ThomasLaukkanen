@@ -38,7 +38,8 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - UX & UI Design
 - Photoshop & Illustrator 
 - Jira, Miro 
-- Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS 
+- Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS
+- Design system with Storybook 
 - Netlify & Gatsby Cloud 
 - Google Ads & My Business 
 - Facebook Ads & Meta portal
