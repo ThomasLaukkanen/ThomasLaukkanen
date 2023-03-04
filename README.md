@@ -50,6 +50,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - Netlify, Gatsby Cloud
 - CI/CD
 - DNS records and server setup
+- Site optimization
 
 
 
