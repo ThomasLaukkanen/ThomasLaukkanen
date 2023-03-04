@@ -5,6 +5,8 @@
 
 ### Who am i?😃
 
+Frontend specialist 🎨 
+
 I'm currently working at Etraveli Group. ✈️
 
 I have been at a startup called Kryptoskatt for 6 months. 💰
