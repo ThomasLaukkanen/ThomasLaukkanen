@@ -41,6 +41,8 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS 
 - Netlify & Gatsby Cloud 
 - Google Ads & My Business 
+- Facebook Ads & Meta portal
+- SEO
 - Linux
 - CMS, Wordpress, Sanity, Contentful
 - Netlify, Gatsby Cloud
