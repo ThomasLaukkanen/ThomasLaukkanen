@@ -1,11 +1,11 @@
 
 
 # 👋 Hi and welcome to my Github page!
- Here i will share awesome frontend/fullstack applications that you can learn from for free. 😎
+ Here i will share awesome fullstack applications that you can learn from for free. 😎
 
 ### Who am i?😃
 
-Frontend specialist 🎨 
+Fullstack developer specialized in the frontend 🎨 
 
 I'm currently working at Etraveli Group. ✈️
 
