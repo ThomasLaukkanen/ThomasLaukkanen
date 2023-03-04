@@ -47,6 +47,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - SEO
 - Linux
 - CMS systems like Wordpress, Sanity, Contentful
+- Wordpress plugin development
 - Netlify, Gatsby Cloud
 - CI/CD
 - DNS records and server setup
