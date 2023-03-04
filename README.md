@@ -44,7 +44,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - Facebook Ads & Meta portal
 - SEO
 - Linux
-- CMS, Wordpress, Sanity, Contentful
+- CMS systems like Wordpress, Sanity, Contentful
 - Netlify, Gatsby Cloud
 - CI/CD
 - DNS records and server setup
