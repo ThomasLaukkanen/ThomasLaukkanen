@@ -35,7 +35,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) i will get back to y
 - Node.js & Express.js 
 - A11Y
 - Sematic HTML
-- UX Design
+- UX & UI Design
 - Photoshop & Illustrator 
 - Jira, Miro 
 - Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS 
