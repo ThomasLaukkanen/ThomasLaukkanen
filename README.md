@@ -26,6 +26,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - GraphQL 
 - Jest, React-testing-library, TestCafé
 - Javascript,Typescript, PHP
+- Java
 - Next.js & Gatsby.js
 - Jenkins 
 - Firebase
@@ -39,10 +40,10 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - UX & UI Design
 - Photoshop & Illustrator 
 - Jira, Miro, Agile methodologies and SCRUM
-- Emotion & Styled Components, Tailwind, Bootstrap, SCSS, CSS
+- Emotion & Styled Components, Tailwind, Vanilla extract, Bootstrap, SCSS, CSS
 - Design system with Storybook 
 - Netlify & Gatsby Cloud 
-- Google Ads & My Business 
+- Google Analytics, Google Ads & My Business 
 - Facebook Ads & Meta portal
 - SEO
 - Linux
