@@ -22,6 +22,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tholau/) 
 I promise to get back to you asap. 🤙
 
 [](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
+
 ![Test](./rounded.png)
 
 
