@@ -3,7 +3,7 @@
 # 👋 Hi and welcome to my Github page!
  Here i will share awesome fullstack applications that you can learn from for free. 😎
 
-### Who am i?😃
+### Who am i?
 
 Fullstack developer specialized in the frontend 🎨 
 
