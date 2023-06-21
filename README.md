@@ -1,3 +1,5 @@
+![Test](./gold.jpeg)
+
 # Greetings! 👋
 
 ### Who am i?
