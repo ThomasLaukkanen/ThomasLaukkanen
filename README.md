@@ -18,7 +18,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
-
+<!--
 ## Skills i have acquired so far...or that i have some experience in🤩
 - React, React-native, Vue
 - Figma & Adobe XD  
@@ -54,7 +54,7 @@ Lets talk at [Linkedin](https://www.linkedin.com/in/tholau) and i promise to get
 - DNS records and server setup
 - Site optimization
 
-
+-->
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=thomaslaukkanen&repo=github-visitors-badge&countColor=%237B1E7A)
 
