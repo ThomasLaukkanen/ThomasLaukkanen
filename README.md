@@ -18,8 +18,7 @@ I got you covered when it comes to...
 * Hosting 
 
 ### Connect With Me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tholau/) - I'm always ready for a good conversation or potential collaboration.
-I promise to get back to you asap. 🤙
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tholau/) - I'm always ready for a good conversation or potential collaboration. 🤙
 
 [](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
