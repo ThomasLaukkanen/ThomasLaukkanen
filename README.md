@@ -20,7 +20,7 @@ I got you covered when it comes to...
 Feel free to reach out to me on LinkedIn - I'm always ready for a good conversation or potential collaboration.
 I promise to get back to you asap. 🤙
 
-[Thanks for visiting](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
+[](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
 
 <!--
