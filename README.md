@@ -1,6 +1,7 @@
 # Greetings! 👋
 
-Welcome to my corner of GitHub! I'm a Full-stack Developer with a strong inclination towards front-end design and development. 🎨
+### Who am i?
+I'm a Full-stack Developer with a strong inclination towards front-end design and development. 🎨
 
 Right now, I'm contributing to Etraveli Group, enhancing the landscape of digital travel solutions. ✈️
 
