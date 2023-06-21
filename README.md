@@ -1,4 +1,4 @@
-![Test](./gold.jpeg)
+![Test](./small.jpeg)
 
 # Greetings! 👋
 
