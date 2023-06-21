@@ -9,7 +9,8 @@ Previously, I had a valuable experience working at a startup, Kryptoskatt, for 6
 Beyond my professional commitments, I find joy in aiding local businesses to thrive online. 🏢
 
 ### Connect With Me
-Feel free to reach out to me on LinkedIn - I'm always ready for a good conversation or potential collaboration. I promise to get back to you asap. 🤙
+Feel free to reach out to me on LinkedIn - I'm always ready for a good conversation or potential collaboration.
+I promise to get back to you asap. 🤙
 
 
 
