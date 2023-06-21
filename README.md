@@ -4,7 +4,7 @@ Welcome to my corner of GitHub! I'm a Full-stack Developer with a strong inclina
 
 Right now, I'm contributing to Etraveli Group, enhancing the landscape of digital travel solutions. ✈️
 
-Previously, I had a valuable experience working at a startup, Kryptoskatt, for 6 months, learning, and growing every day. 💰
+In the past, I spent six insightful months at Kryptoskatt, a crypto startup, where I deepened my knowledge of blockchain technology and digital assets.. 💰
 
 Beyond my professional commitments, I find joy in aiding local businesses to thrive online. 🏢
 
