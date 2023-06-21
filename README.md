@@ -1,4 +1,4 @@
-![Test](./small.jpeg)
+![Test](./rounded.png)
 
 # Greetings! 👋
 
