@@ -1,5 +1,19 @@
+# Greetings! 👋
+
+Welcome to my corner of GitHub! I'm a Full-stack Developer with a strong inclination towards front-end design and development. 🎨
+
+Right now, I'm contributing to Etraveli Group, enhancing the landscape of digital travel solutions. ✈️
+
+Previously, I had a valuable experience working at a startup, Kryptoskatt, for 6 months, learning, and growing every day. 💰
+
+Beyond my professional commitments, I find joy in aiding local businesses to thrive online. 🏢
+
+### Connect With Me
+Feel free to reach out to me on LinkedIn - I'm always ready for a good conversation or potential collaboration. I promise to get back to you asap. 🤙
 
 
+
+<!--
 # 👋 Hi and welcome to my Github page!
 
 
