@@ -23,7 +23,6 @@ I promise to get back to you asap. 🤙
 
 [](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
-![Test](./rounded.png)
 
 
 <!--
