@@ -10,7 +10,7 @@
 
 🏢 Beyond my professional commitments, I find joy in aiding local businesses to thrive online. 
 
-I got you covered when it comes to... 
+### I got you covered when it comes to... 
 * Fullstack development
 * UX design
 * SEO
