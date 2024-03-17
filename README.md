@@ -1,5 +1,5 @@
 
-# Greetings! 👋
+# From Concept to Code: Transforming Ideas into Digital Reality 👋
 
 ### Who am i?
 🎨 I'm a Full-stack Developer with a strong inclination towards front-end design and development. 
