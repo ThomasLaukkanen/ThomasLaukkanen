@@ -4,7 +4,7 @@
 ### Who am i?
 🎨 I'm a Full-stack Developer with a strong inclination towards front-end design and development. 
 
-✈️ Right now, I'm contributing to Etraveli Group, enhancing the landscape of digital travel solutions. 
+✈️ Right now, I'm contributing to Etraveli Group, the biggest online travel agency in europe. Enhancing the landscape of digital travel solutions. 
 
 💰 In the past, I spent six insightful months at Kryptoskatt, a crypto startup, where I deepened my knowledge of blockchain technology and digital assets.. 
 
