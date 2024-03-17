@@ -15,7 +15,8 @@
 * UX design
 * SEO
 * Performance Marketing 
-* Hosting 
+* Hosting
+* E-commerce
 
 ### Connect With Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tholau/) - I'm always ready for a good conversation or potential collaboration. 🤙
