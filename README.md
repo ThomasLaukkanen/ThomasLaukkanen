@@ -1,7 +1,7 @@
 
 # Transforming Ideas into Digital Reality 🚀
 
-### Hello, thank you for dropping by!👋
+### Hello, welcome to my github!👋
 🎨 I'm a Full-stack Developer with a strong inclination towards front-end design and development. 
 
 ✈️ Right now, I'm contributing to Etraveli Group, the biggest online travel agency in europe. Enhancing the landscape of digital travel solutions. 
