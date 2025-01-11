@@ -1,12 +1,12 @@
 
-# From Concept to Code: Transforming Ideas into Digital Reality 🚀
+#Transforming Ideas into Digital Reality 🚀
 
-### Who am i?
+### Hello!
 🎨 I'm a Full-stack Developer with a strong inclination towards front-end design and development. 
 
 ✈️ Right now, I'm contributing to Etraveli Group, the biggest online travel agency in europe. Enhancing the landscape of digital travel solutions. 
 
-💰 In the past, I spent six insightful months at Kryptoskatt, a crypto startup, where I deepened my knowledge of blockchain technology and digital assets.. 
+💰 In the past, I spent six insightful months at Kryptos, a crypto startup, where I deepened my knowledge of blockchain technology and digital assets.. 
 
 🏢 Beyond my professional commitments, I find joy in aiding local businesses to thrive online. 
 
