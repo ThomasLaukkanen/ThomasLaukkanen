@@ -6,12 +6,6 @@ Hi there! I’m **Thomas**, a Full-Stack Developer who doesn’t just code—I c
 
 ---
 
-### 🌍 Transforming industries, one project at a time:  
-- **🚀 Current Role**: Contributing to **Etraveli Group**, Europe’s largest online travel agency, where I help millions of travelers navigate the digital journey seamlessly.  
-- **🔗 Previous Experience**: A pivotal six months at **Kryptos**, a blockchain startup, where I honed my expertise in crypto and digital assets.  
-- **🤝 Community Impact**: Supporting local businesses to thrive in the digital economy, from SEO to stunning web designs.  
-
----
 
 ### Why partner with me? 🤝  
 **Your vision deserves more than just a website—it needs a digital powerhouse.** With me, you get a blend of:  
