@@ -1,4 +1,4 @@
-
+<!--
 # From Ideas to Impact: Building the Digital Future 🌟
 
 ### Welcome! Let’s create something extraordinary together. 👋  
@@ -25,7 +25,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tholau/) or drop me a 
 [](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
 
-
+-->
 <!--
 # 👋 Hi and welcome to my Github page!
 
