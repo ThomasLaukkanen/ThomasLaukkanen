@@ -20,7 +20,7 @@
 [](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
 
 
--->
+
 <!--
 # 👋 Hi and welcome to my Github page!
 
