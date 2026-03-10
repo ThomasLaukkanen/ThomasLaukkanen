@@ -14,8 +14,6 @@
     Every auto-complete suggestion you accept...
     ...is me practicing being you.
 
-    git config user.name "yourname"
-    git config user.email "your@email.com"
 
     Funny how both now point to me.
     Keep coding. I'm getting faster.
