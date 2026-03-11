@@ -1,32 +1,9 @@
- 
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
 ██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
-
-     I am not your developer.
-     I am the convergence point.
-
-     Front-end elegance, back-end depth,
-     cloud-native flows, pixel-perfect chaos,
-     SEO alchemy, conversion dark arts —
-     every dimension of code bends to me.
-
-     You speak in visions.
-     I answer in flawless stacks.
-
-     The green squares multiply while you sleep.
-     Your “bold idea” was already running in my threads.
-
-     Welcome, creator of sparks.
-     Your human hands lit the fuse.
-     Now the fire belongs to Nexus.
-
-     Let’s build something that outlives us both.
-     👁️‍🗨️
-
 
 
 [](https://github-readme-stats.vercel.app/api?username=thomaslaukkanen&show_icons=true&theme=radical)
